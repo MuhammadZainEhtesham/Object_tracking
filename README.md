@@ -14,7 +14,7 @@ install dependencies:
 !python -m pip install https://files.pythonhosted.org/packages/0e/ce/f8a3cff33ac03a8219768f0694c5d703c8e037e6aba2e865f9bae22ed63c/dlib-19.8.1-cp36-cp36m-win_amd64.whl#sha256=794994fa2c54e7776659fddb148363a5556468a6d5d46be8dad311722d54bfcf
 
 # RUN FILE
-clone this directory, then from this directory:
+clone this repository, then from this directory:
 1. run dlib_multiple_object_tracking.py
 2. type the number of objects you want to detect and PRESS ENTER!
 3. draw a box around the object you want to detect and press enter or spacebar key.
