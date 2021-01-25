@@ -20,7 +20,7 @@ clone this directory, then from this directory:
 3. draw a box around the object you want to detect and press enter or spacebar key.
 4. enjoy
 
-P.S: by default a feed from "test" folder will run. to change the feed as per your preference just change:
+P.S: by default a feed "video_sample4.mp4" will  run. to change the feed as per your preference just change:
 
 cap = cv2.VideoCapture('test/video_sample4.mp4')----------in run dlib_multiple_object_tracking.py to :
 
